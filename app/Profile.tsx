@@ -12,8 +12,7 @@ const Profile = () => {
       <Text style={styles.name}>Débora Laís Macedo</Text>
 
       <Text style={styles.bio}>
-       Tecnólogo em Sistemas para Internet 
-       <br></br>
+       Tecnólogo em Sistemas para Internet •
         Universidade Católica de Pernambuco
         
       </Text>
